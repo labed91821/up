@@ -20,13 +20,15 @@ Info
 HWID (Digital License) Method to Permanently Activate Windows
 Ohook Method to Permanently Activate Office
 TSforge Method to Permanently Activate Windows/ESU/Office
+
 KMS38 Method to Activate Windows Till the Year 2038
+
 Online KMS Method to Activate Windows/Office For 180 Days (Lifetime With Renewal Task)
+
 Advanced Activation Troubleshooting
+
 $OEM$ Folders For Preactivation
-Change Windows Edition
-Change Office Edition
-Check Windows/Office Activation Status
-Available in All In One and Separate Files Versions
+
+
 Fully Open Source and Based on Batch Scripts
 Fewer Antivirus Detections
