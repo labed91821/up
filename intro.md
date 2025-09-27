@@ -1,8 +1,4 @@
----
-slug: /
-sidebar_position: 1
-sidebar_label: Intro
----
+
 
 # Microsoft Activation Scripts (MAS)
 
@@ -142,3 +138,4 @@ To activate unsupported products such as **Office on Mac**, check [here](unsuppo
 ------------------------------------------------------------------------
 
 Made with Love ❤️
+
